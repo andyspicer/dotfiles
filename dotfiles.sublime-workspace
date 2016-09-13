@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cam",
+				"cameraState"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".osx",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git sta",
+		"selected_items":
+		[
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"subl",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"gutt",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"gitsa",
+				"GitSavvy: help"
+			],
+			[
+				"git st",
+				"git: status"
+			],
+			[
+				"gitsav",
+				"Preferences: GitSavvy Settings - Default"
+			],
+			[
+				"git",
+				"Preferences: GitSavvy Settings - User"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"git co",
+				"git: commit"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"git rm",
+				"git: restart merge for file..."
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Origin"
+			],
+			[
+				"pack in	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles/.vim/colors",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles/.vim/swaps",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles/.vim/syntax",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles/.vim/undo"
+	],
+	"file_history":
+	[
+		"/Volumes/RASPBIAN 1/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-ua-netinst-20160908-git56d0599/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/scripts/etc/init.d/rcS",
+		"/Users/andyspicer/Dropbox (Personal)/AWS Court Cases/General Reference/CAS - AWS Wedding Ceremony Vows",
+		"/Users/andyspicer/Dropbox (Personal)/AWS Court Cases/General Reference/Library/facebook-catebuscher/photos/10150090336517239/index.htm",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/.git/MERGE_MSG",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-ua-netinst-20160907-gitb5313eb/installer-config.txt",
+		"/Volumes/RASPBIAN/installer-config.txt",
+		"/Volumes/RASPBIAN/config/files/etc/wpa_supplicant/wpa_supplicant.conf",
+		"/Volumes/RASPBIAN/config/wpa_supplicant.conf",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/files/etc/network/wpa_supplicant.conf",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/files/etc/wpa_supplicant/wpa_supplicant.conf",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/my-files.list",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/update.sh",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/build.sh",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-ua-netinst-test.zip Folder/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RacingTech/rrp-raspbian-install/working/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RacingTech/rrp-raspbian-install/working/post-install.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RacingTech/rrp-raspbian-install/working/config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RacingTech/rrp-raspbian-install/working/config/lib.1/modules/3.12-1-rpi/kernel/drivers/net/wireless/rtl8192cu/8192cu.ko",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-two-drivers/installer-config.txt",
+		"/Volumes/UNTITLED 1/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-ua-netinst-20160819-git430730f/installer-config.txt",
+		"/Volumes/NO NAME/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/.gitignore",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/files/etc/network/interfaces",
+		"/Users/andyspicer/Dropbox (Personal)/RaceReplay/Current Raspi Install/raspbian-ua-netinst-20160906-git26ebc5b/post-install.txt",
+		"/Volumes/Fliqlo 1.7/ReadMe.txt",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/communications/discovery.js",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/rrp-core.sublime-project",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/communications/models/KartObj.js",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/communications/models/KartsObj.js",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/.gitignore",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/README.md",
+		"/Users/andyspicer/Library/Application Support/LaunchBar/Actions/Switch Audio.lbaction/Contents/Scripts/audio.js",
+		"/Users/andyspicer/Library/Application Support/LaunchBar/Actions/Switch Audio.lbaction/Contents/Scripts/audio.sh",
+		"/Users/andyspicer/Desktop/CellularUsage.db",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-docker/rrp-docker-ctl-srv/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-docker/rrp-docker-ctl-srv/Dockerfile",
+		"/Users/andyspicer/Dropbox (Personal)/Development/docker-apps/node-webserver/package.json",
+		"/Users/andyspicer/Dropbox (Personal)/Development/docker-apps/node-webserver/server.js",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/.git/MERGE_MSG",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-core/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Desktop/Defense Response to Charges.html",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/interfaces",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/config/apt/uv4l.list",
+		"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer/post-install.txt",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/GitGutter/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/DashDoc.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/GitSavvy.sublime-settings",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/post-install.txt",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/config/apt/sources.list",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/scripts/etc/init.d/rcS",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-kart-stream/index.js",
+		"/Volumes/Time Machine Backups 1/Backups.backupdb/Catherine’s MacBook/2015-11-03-133013/Macintosh HD/Users/catebuscher/.bash_history",
+		"/Users/andyspicer/Dropbox (Personal)/document",
+		"/Users/andyspicer/Dropbox (Personal)/*Inbox/raspi-install/post-install.txt",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/installer-config.txt",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/config/my-files.list",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/build.sh",
+		"/Users/andyspicer/Dropbox (Personal)/rrp-dev/rrp-raspi-installer/BUILD.md",
+		"/Users/andyspicer/Downloads/update.sh",
+		"/Users/andyspicer/Downloads/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.alias.bin",
+		"/Users/andyspicer/Downloads/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.symbols",
+		"/Users/andyspicer/Desktop/rcS",
+		"/Users/andyspicer/Desktop/packages.txt",
+		"/Users/andyspicer/Desktop/messages.txt",
+		"/Users/andyspicer/Desktop/dpkg.txt",
+		"/Users/andyspicer/Desktop/Raspi Install Adds/packages to add to install.md",
+		"/Users/andyspicer/Desktop/logs.a",
+		"/Users/andyspicer/Desktop/raspi-installed-packages.txt",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-stream/index.html",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-stream/index.js",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-stream/.git/MERGE_MSG",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-stream/.git/COMMIT_EDITMSG",
+		"/private/etc/hosts",
+		"/Users/andyspicer/.bash_profile",
+		"/Users/andyspicer/.bashrc",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-control/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-control/cameraControl.js",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-control/config.js",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-core/communications/rrp-messaging.js",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-kart-control/package.json",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-messaging.js",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/andyspicer/Library/Application Support/Sublime Text 3/Packages/Gist/Default (OSX).sublime-keymap",
+		"/usr/local/bin/filebeat-1.2.3-darwin/filebeat.yml",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-core/communications/kartsReceive.js",
+		"/Users/andyspicer/Dropbox (tinkertek)/RRP-Dev/rrp-kart-control/cameraControl.js",
+		"/Users/andyspicer/Dropbox (tinkertek)/rrp-dev/rrp-webapi/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Dropbox (tinkertek)/RRP-Dev/RRP-DeviceClient/raspi-scripts/.git/COMMIT_EDITMSG",
+		"/Users/andyspicer/Desktop/raspbian-ua-netinst-20160814-gite24fead/installer-config.txt",
+		"/Users/andyspicer/Dropbox (tinkertek)/RRP-Dev/RRP-Installers/rrp-raspi-installer/installer-config.txt",
+		"/Users/andyspicer/Desktop/raspbian-ua-netinst-20160813-git75b60b2/config/apt/sources.list",
+		"/Users/andyspicer/Desktop/raspbian-ua-netinst-20160813-git75b60b2/config/my-files.list",
+		"/Users/andyspicer/Desktop/raspbian-ua-netinst-20160813-git75b60b2/config/files/etc/wpa_supplicant/wpa_supplicant.conf",
+		"/Users/andyspicer/Downloads/Contents-armhf",
+		"/Users/andyspicer/Desktop/raspbian-ua-netinst-20160813-git75b60b2/config/files/etc/network/interfaces",
+		"/Users/andyspicer/Downloads/Packages",
+		"/Users/andyspicer/Downloads/Release",
+		"/Users/andyspicer/Dropbox (tinkertek)/RRP-Dev/RRP-Installers/rrp-raspi-installer/config/apt/raspberrypi.org.list",
+		"/Users/andyspicer/Dropbox (tinkertek)/RRP-Dev/RRP-Installers/rrp-raspi-installer/config/apt/sources.list",
+		"/Users/andyspicer/Downloads/brcmfmac (3).ko",
+		"/Volumes/UNTITLED/installer-config.txt",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.alias",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.dep",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.builtin",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.symbols",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.softdep",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.devname",
+		"/Volumes/UNTITLED/installer-rpi2/lib/modules/4.4.0-1-rpi2/modules.order",
+		"/Users/andyspicer/Desktop/install-fink.sh"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/rrp-dev/rrp-raspi-installer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"if",
+			"  ",
+			"brcmfmac",
+			"∂",
+			"terminal",
+			"RASPBERRYPI",
+			"key",
+			"super+L",
+			"RASPBERRYPI",
+			"key",
+			"gpg",
+			"lr",
+			"lrc",
+			"key",
+			"strict",
+			"socket",
+			"copy",
+			"open",
+			"menu",
+			"key",
+			"lib/",
+			"firmware",
+			"lib/",
+			"lib/fir",
+			"lib",
+			"log",
+			"tmp",
+			"lib",
+			"eth0",
+			"wlan0",
+			"nokernel",
+			"boot",
+			"mkdir",
+			"tmp/boot",
+			"tmp",
+			"INSTALL_MODULES",
+			"serveClient",
+			"+p",
+			"palette",
+			"},\n",
+			"super",
+			"+P",
+			"palette",
+			"PACKAGE",
+			"COMMAND",
+			"GIST",
+			"bulk_max",
+			"output",
+			"brcm",
+			"net",
+			"prox",
+			"york",
+			"client"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"UV4L"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".osx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								66
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles/.osx",
+							"git_savvy.repo_path": "/Users/andyspicer/Dropbox (Personal)/Development/dev-repos/tnk-dev/dotfiles",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
