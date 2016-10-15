@@ -12,10 +12,35 @@ alias -- -="cd -"
 alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/projects"
+# alias p="cd ~/projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
+
+# AWS Added Aliases
+alias db='cd ~/Dropbox'
+# alias dbp='cd ~/Dropbox'
+# alias dbt='cd ~/Dropbox\ \(tinkertek\)'
+alias dev='cd /Users/andyspicer/Dropbox/Development/dev-repos'
+alias rrp='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev'
+alias rrpi='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-raspi-installer'
+alias rrpc='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-kart-control'
+alias rrpstream='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-kart-stream'
+alias rrpcore='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-core'
+alias rpi='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/raspi-scripts'
+alias rrpw='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-webapi'
+alias tnk='cd /Users/andyspicer/Dropbox/Development/dev-repos/tnk-dev'
+alias desk='cd /Users/andyspicer/Desktop'
+alias web='cd /Users/andyspicer/Dropbox/Development/dev-repos/websites'
+
+# AWS Git Aliases
+alias gs='git status -v'
+alias gc='git commit -a -m""'
+alias gp='git push'
+alias gitall='git add . && git commit -a -m "added stuff" && git push'
+
+#OSX Alternatives for Linux Commands
+alias lsusb='system_profiler SPUSBDataType'
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
