@@ -16,3 +16,9 @@ Thumbs.db
 # keep the sublime project but not the workspace
 *.sublime-workspace
 
+# Don't commit the .ssh directory
+.ssh/*
+
+# Don't commit the archive.
+*.gz
+

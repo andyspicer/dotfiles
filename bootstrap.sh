@@ -5,6 +5,12 @@ cd "$(dirname "${BASH_SOURCE}")";
 git pull origin master;
 
 function doIt() {
+	find ~/ -maxdepth 1 ! \( -type d \)  -name ".*" -print0 | xargs -0 tar cvf ~/Dropbox/Development/dev-repos/aws-dev/aws-dotfiles/awsdotfiles_bak.tar.gz
+if [ $? -eq 0 ]; then
+	echo "Created archive of dotfiles."
+else
+	echo "Failed to create dotfiles backup archive."
+fi
 	rsync --exclude ".git/" \
 		--exclude ".DS_Store" \
 		--exclude ".osx" \
