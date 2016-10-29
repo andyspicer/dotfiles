@@ -23,6 +23,7 @@ alias db='cd ~/Dropbox'
 # alias dbt='cd ~/Dropbox\ \(tinkertek\)'
 alias dev='cd /Users/andyspicer/Dropbox/Development/dev-repos'
 alias deva='cd /Users/andyspicer/Dropbox/Development/dev-repos/aws-dev'
+alias dot='cd /Users/andyspicer/Dropbox/Development/dev-repos/aws-dev/aws-dotfiles
 alias rrp='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev'
 alias rrpi='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-raspi-installer'
 alias rrpc='cd /Users/andyspicer/Dropbox/Development/dev-repos/rrp-dev/rrp-kart-control'
