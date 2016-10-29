@@ -1,9 +1,0 @@
-
-- Pandoc and MacTex - apps used to export and import text documents. IE: Markdown export or import of a word .doc into markdown. 
-[Pandoc](http://pandoc.org/installing.html)
-	Install - brew install pandoc
-[MacTex](https://tug.org/mactex/mactex-download.html)
-
-
-
-
