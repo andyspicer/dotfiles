@@ -1,1 +1,2 @@
-/Users/andyspicer/Dropbox/Application-Data/Mackup/.profile
+
+[ -n "$PS1" ] && source ~/.bash_profile;

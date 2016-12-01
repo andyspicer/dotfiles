@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+#Docker funcs
+function dr() {
+	if [ -z "${1}"; then
+		echo "Usage: \'dr container comman\'";
+		return 1;
+	fi;
+	docker run "{1}" bash -c "${2}";
+}
+
 # Create a new directory and enter it
 function mkd() {
 	mkdir -p "$@" && cd "$_";
@@ -82,6 +91,23 @@ function gitio() {
 		return 1;
 	fi;
 	curl -i https://git.io/ -F "url=${2}" -F "code=${1}";
+}
+
+# Create a a.ndy.io short URL
+function a.ndy() {
+	if [ -z "${1}" ]; then
+		echo "Usage: \`a.dny url slug\`";
+		return 1;
+	fi;
+	if [ -z "${2}" ]; then
+		curl -s "http://api.bitly.com/v3/shorten?login=andyspicer&apiKey=R_393ee4c06046b1bac093294884176c60&longUrl=$1&format=txt" | pbcopy ;
+		return 1;
+	else
+		# have to add oAuth to this for this path to work.
+		curl -s "http://api.bitly.com/v3/user/link_save?login=andyspicer&apiKey=R_393ee4c06046b1bac093294884176c60&longUrl=$1&title="$2"&format=txt" | pbcopy ;
+		return 1;
+	fi;
+
 }
 
 # Start an HTTP server from a directory, optionally specifying the port

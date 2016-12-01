@@ -21,16 +21,16 @@ alias gp='git push'
 alias gitall='git add . && git commit -a -m "added stuff" && git push'
 
 # List all files colorized in long format
-alias l="ls -lF ${colorflag}"
+alias l="ls -lF"
 
 # List all files colorized in long format, including dot files
-alias la="ls -laF ${colorflag}"
+alias la="ls -laF"
 
 # List only directories
-alias lsd="ls -lF ${colorflag} | grep --color=never '^d'"
+alias lsd="ls -lF | grep --color=never '^d'"
 
 # Always use color output for `ls`
-alias ls="command ls ${colorflag}"
+alias ls="command ls"
 
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
@@ -50,5 +50,13 @@ alias ips='ifconfig -a | grep -o "inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[
 alias sniff="sudo ngrep -d 'en1' -t '^(GET|POST) ' 'tcp and port 80'"
 alias httpdump="sudo tcpdump -i en1 -n -s 0 -w - | grep -a -o -E \"Host\: .*|GET \/.*\""
 
+alias rrpa='cd ~/Dropbox/Development/dev-repos/rrp-dev/rrp-ansible'
+alias rrpd='cd ~/Dropbox/Development/dev-repos/rrp-dev/rrp-devops'
+alias devdot='cd ~/Dropbox/Development/dev-repos/aws-dev/aws-dotfiles'
 # Reload the shell (i.e. invoke as a login shell)
 alias reload="exec $SHELL -l"
+alias sha256sum='/usr/local/bin/shasum -a 256 '
+alias md='open -a /Applications/Marked\ 2.app/'
+alias rrph='cd ~/Dropbox/Development/dev-repos/rrp-dev/rrp-hypriot/ && ls -lah'
+alias rrpk='cd ~/Dropbox/Development/dev-repos/rrp-dev/rrp-kart-control/'
+alias dot='cd ~/Dropbox/Development/dev-repos/aws-dev/aws-dotfiles'
